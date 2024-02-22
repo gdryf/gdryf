@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a chemstry and chemical engineering student at EPFL.
+I'm a chemistry and chemical engineering student at EPFL.
 
 <!--
 **gdryf/gdryf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
